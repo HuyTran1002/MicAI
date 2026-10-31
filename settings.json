@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "audio_devices": {
+    "input_mic": "Microphone Array (Intel Smart Sound Technology for Digital Microphones)",
+    "output_mic": "CABLE Input (VB-Audio Virtual Cable)",
+    "music_input": "Line 1 (Virtual Audio Cable)",
+    "headphone_output": "default"
+  },
+  "mic_settings": {
+    "denoise_enabled": true,
+    "noise_gate": 10,
+    "gain": 100
+  },
+  "music_settings": {
+    "web_to_hp": true,
+    "web_to_mic": false,
+    "ducking": false,
+    "hp_volume": 100,
+    "discord_volume": 50
+  },
+  "app_settings": {
+    "autostart": true,
+    "minimize_to_tray": true,
+    "auto_start_mic": true,
+    "current_tab": 0
+  }
+}
